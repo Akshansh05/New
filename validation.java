@@ -1,7 +1,7 @@
 import java.io.*;
 class validation extends mainmenu
-{ static String A[]={"Akshansh","Akash","Imteyaz"};
-static String B[]={"12345","Imteyaz"};
+{ static String A[]={"Akshansh"};
+static String B[]={"12345"};
 static int d=0;static int f=0;static int e=0;static int rr=0;static int rrr=0;
         
 
