@@ -8,6 +8,7 @@ PROJECT TITLE:Seismic Waves Time Zone
 HOW TO START THIS PROJECT:Go to main access.Right click on it
 open new mainaccess() a red colour object eill be created
 .Right click on it and open voi humm().Then Enjoy
+You can login into the project as guest.
 AUTHOR:Akshansh Ohm
 Things Required
 1.Blue j
