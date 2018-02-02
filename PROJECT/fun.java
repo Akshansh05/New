@@ -1,0 +1,37 @@
+package PROJECT;
+interface fun
+{int ch=0; 
+public void accepta();
+public void acceptbbm();
+public void acceptb();
+public void accept146();
+public void accept147();
+public void acceptc();
+public void accept149();
+public void acceptd();
+public void accepte();
+public void acceptsur();
+public void acceptsubsub();
+public void acceptsursubsub();
+public void accept6();
+public void accept7();
+public void accept8();
+public void accept9();
+public void accept99();
+public void accept10();
+public void accept11();
+public void accept12();
+public void accept13();
+public void accept14();
+public void accept14w();
+public void accept15();
+public void accept16();
+public void accept17();
+public void accept18();
+public void accept19();
+public void accept20();
+public void accept21();
+int ma=0;
+int h=0;
+public void func1();
+}
