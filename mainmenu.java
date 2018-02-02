@@ -8,7 +8,7 @@ import java.io.*;
        System.out.println("\f"+"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
      System.out.println("WELCOME TO OUR PROJECT");
      System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
-        System.out.println(" Group members- Akshansh Ohm,Akash");
+        System.out.println(" Group member- Akshansh Ohm");
          System.out.println("press 1 for Topic TIME ZONE");
          System.out.println("press 2 for Topic SEISMIC WAVES");
           System.out.println("press 0 to exit");
